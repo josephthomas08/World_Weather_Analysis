@@ -2,11 +2,11 @@
 world weather analysis
 
 Submission
-As PArt of Read me data i propose to attach images relevant to data requested as per module which for most part is self explanatory as Jack like to see for his clients to have a clear picture of how they would like to travel in different parts of country during the right kind of atmosphere to their liking.
+As Part of Read me data i propose to attach images relevant to data requested as per module which for most part is self explanatory as Jack like to see for himself what is the best way to serve his clients in order for them to have a clear picture of how they would like to travel in different parts of country during the right kind of atmosphere to their liking.
 
-The excecise to identify the climatic conditions in our earlier excercie gives us sufficent ground expertise to provide our clients their travel plans during diferent weather conditions.
+The excecise to identify the climatic conditions in our earlier excercise gives us sufficent ground expertise to provide our clients their travel plans during diferent weather conditions.
 
-SOme of the images which was documented are pasted here for records and advise:
+Some of the images which was documented are pasted here for records and advise:
 
 The scatter plots for different weather conditions for internal review.
 
@@ -38,7 +38,7 @@ The weather_DataBase folder includes the following as advised
 
 1. The Weather_Database.ipynb file
 2. The WeatherPy_Database.csv file
-Both of the above mentiones files and the image provided below are saved in weather_databse folder as advised .
+Both of the above mentioned files and the image provided below are saved in weather_databse folder as advised .
 
 3. Call from API - Image
 
